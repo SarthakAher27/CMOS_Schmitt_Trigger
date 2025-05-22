@@ -27,21 +27,21 @@ A Schmitt Trigger is a comparator circuit with hysteresis that provides noise im
 ### 🔧 Schematic (Virtuoso)
 The schematic consists of a CMOS inverter with positive feedback to realize hysteresis.
 
-![schematics](schematic.png)
+![Schematics](schematics/schematic.png)
 
 ---
 
 ### ⚡ Simulation Result
 Simulation confirms proper hysteresis behavior. Input is a sine wave, and output shows clean digital transitions.
 
-![simulation](simulation.png)
+![Simulation](simulation/simulation.png)
 
 ---
 
 ### 🧱 Layout View
 Custom layout was designed manually and verified using DRC and LVS tools. LVS passed successfully.
 
-![Layout](layout.png)
+![Layout](layout/layout.png)
 
 ---
 
