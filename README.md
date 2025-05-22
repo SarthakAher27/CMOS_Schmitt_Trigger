@@ -1,4 +1,3 @@
-# CMOS_Schmitt_Trigger
 
 # CMOS Schmitt Trigger using Cadence Virtuoso (45nm)
 
